@@ -1,6 +1,8 @@
 {
   "title": "ansible-dojo-01",
   "description": "Ansible Dojo 01",
+  "difficulty": "intermediate",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
