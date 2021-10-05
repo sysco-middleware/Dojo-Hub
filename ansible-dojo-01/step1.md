@@ -8,7 +8,7 @@ which basically means:
 - in order to merge your code into "develop" you need to create a pull request
 - your work is basically done once your code has been merged into "develop"
 
-![GitFlow](./gitflow.png)
+![GitFlow](./assets/gitflow.png)
 
 References:
 
@@ -19,6 +19,8 @@ https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Gi
 ## Task
 
 1. Clone the following repo: https://github.com/sysco-middleware/ansible-dojo-day0-part1
-2. Create your feature branch and push it
+2. Create your feature branch and push it to the remote origin
 3. Start coding within the "challenge-01" folder
-4. Remember to commit and push only to your branch until you're ready to pull request
+4. Commit and push a small change to the README file within this folder
+   
+_*** NOTE: Remember to commit and push only to your branch until you're ready to pull request_

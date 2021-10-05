@@ -7,5 +7,5 @@ More detailed instructions will be provided inside each step, but keep in mind t
   uncertainty don't hesitate to ask the coaches
 - Keep your code clean, simple and organized
 - Being able to work within the outlined development process is as important to the challenge 
-  as is the end result
+  as the end result itself
 
