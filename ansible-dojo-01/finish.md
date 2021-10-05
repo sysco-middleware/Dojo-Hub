@@ -1,3 +1,1 @@
-Congratulations. You have completed the scenario.
-
-Continue looking at examples on [katacoda.com/scenario-examples](https://katacoda.com/scenario-examples)
+Congratulations!!, You have completed the challenge.
