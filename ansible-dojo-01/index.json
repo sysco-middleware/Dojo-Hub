@@ -1,24 +1,30 @@
 {
   "title": "ansible-dojo-01",
-  "description": "Ansiblify Nginx",
+  "description": "Ansible Dojo 01",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Docker Hello World",
+        "title": "Step 1 - Setup your Codebase",
         "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Code and Execute",
+        "text": "step2.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal-iframe-split"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "ubuntu:2004",
+    "port": 80
   }
 }
