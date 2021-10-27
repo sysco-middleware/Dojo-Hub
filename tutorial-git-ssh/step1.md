@@ -52,4 +52,4 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a
 
 - Now you can also try cloning a repo with SSH, for example:
 
-`git@github.com:sysco-middleware/osb-integration-logger-sp.git`{{copy}}
+`git clone git@github.com:sysco-middleware/osb-integration-logger-sp.git`{{copy}}
