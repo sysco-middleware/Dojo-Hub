@@ -1,0 +1,27 @@
+{
+  "title": "tutorial-git-ssh",
+  "description": "Git SSH Tutorial",
+  "difficulty": "beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Configure and test SSH keys for GitHub",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004",
+    "port": 80
+  }
+}
