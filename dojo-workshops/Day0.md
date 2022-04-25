@@ -1,4 +1,4 @@
-# INstall & Configure ELK
+# Install & Configure ELK
 
 https://www.elastic.co/start
 
