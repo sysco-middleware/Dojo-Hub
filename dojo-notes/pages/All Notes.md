@@ -3,7 +3,6 @@
   [[ViM]] 
   [[tmux]]
   [[Git & GitHub]]
-  [[Prometheus]]
 ## Tips & Tricks
 	-
 ## TO-DO List
