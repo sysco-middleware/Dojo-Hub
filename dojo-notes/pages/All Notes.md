@@ -3,6 +3,7 @@
   [[ViM]] 
   [[tmux]]
   [[Git & GitHub]]
+  [[Linux]]
 ## Tips & Tricks
 	-
 ## TO-DO List
