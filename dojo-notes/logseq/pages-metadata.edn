@@ -3,7 +3,7 @@
   :block/updated-at 1636734615166}
  {:block/name "all notes",
   :block/created-at 1636723068278,
-  :block/updated-at 1649157816478}
+  :block/updated-at 1650883941570}
  {:block/name "ansible",
   :block/created-at 1649157219659,
   :block/updated-at 1649157219659}
@@ -60,16 +60,13 @@
   :block/updated-at 1636734615166}
  {:block/name "linux",
   :block/created-at 1636744077074,
-  :block/updated-at 1636744077074}
+  :block/updated-at 1650884574072}
  {:block/name "merge conflict",
   :block/created-at 1649157219788,
   :block/updated-at 1649157544226}
  {:block/name "now",
   :block/created-at 1636734615167,
   :block/updated-at 1636734615167}
- {:block/name "prometheus",
-  :block/created-at 1649157219593,
-  :block/updated-at 1649157219593}
  {:block/name "readme",
   :block/created-at 1649156393706,
   :block/updated-at 1649156393706}
