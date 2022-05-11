@@ -4,7 +4,7 @@ All the notes are added / updated using Logseq (https://logseq.com/)
 
 
 To access the notes:
-  - Download the notes as zip file
+  - Download the notes as zip file \
     TIP: https://downgit.github.io/#/home
   - Extract the zip file
   - Install / Open logseq - https://logseq.com/
