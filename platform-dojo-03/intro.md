@@ -1,4 +1,4 @@
-## Challenge 01
+## Challenge intro
 In this challenge, you are asked to setup a proper codebase and write an Ansible Playbook
 which automatically installs and runs: `Tomcat9 web server`.
 
