@@ -1,6 +1,6 @@
 ## Challenge 01
 In this challenge, you are asked to setup a proper codebase and write an Ansible Playbook
-which automatically installs and runs: Apache2 web server.
+which automatically installs and runs: `Nginx web server`.
 
 More detailed instructions will be provided inside each step, but keep in mind the following:
 
