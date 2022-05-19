@@ -1,6 +1,6 @@
 ## Task
 
-Implement an Ansible Playbook  which automatically installs and runs: `Apache2 web server`  
+Implement an Ansible Playbook  which automatically installs and runs: `Jetty9 web server`  
 
 ### Considerations
 
@@ -12,6 +12,6 @@ Implement an Ansible Playbook  which automatically installs and runs: `Apache2 w
 
 ## Acceptance Criteria
 
-1. Your playbook executes properly within Katacoda and you're able to see the Apache2 landing page
+1. Your playbook executes properly within Katacoda and you're able to see the Jetty9 landing page
    in the upper frame
 2. Your pull request has been reviewed and merged by a code owner
