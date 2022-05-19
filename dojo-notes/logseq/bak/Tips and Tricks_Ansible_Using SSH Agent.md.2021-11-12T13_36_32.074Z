@@ -1,0 +1,22 @@
+This will enable us to use password protected privatekey with Ansible
+
+### Update the ansible.cfg
+
+```
+[defaults]
+host_key_checking = False
+
+[ssh_connection]
+ssh_args = -o ForwardAgent=yes -o ControlMaster=auto -o ControlPersist=60s
+```
+### Add the private key to the ssh-agent
+
+```
+$ ssh-agent bash
+ssh-add ~/.ssh/<private_key>
+```
+
+Now run the ansible playbook with private key
+```
+fmw_install.yml -b -vv -c ssh --private-key dhayanand
+```
