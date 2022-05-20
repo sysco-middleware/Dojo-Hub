@@ -20,7 +20,7 @@ References:
 
 1. Clone the following repo: [sysco-middleware/platform-dojo-challenges](https://github.com/sysco-middleware/platform-dojo-challenges)      
 2. Create your feature branch and push it to the remote origin  
-3. Start coding within the "challenge-01" folder  
+3. Start coding within the "challenge-05" folder  
 4. Commit and push a small change to the README file within this folder  
 
 _*** NOTE: Remember to commit and push only to your branch until you're ready for a `pull request`_  
